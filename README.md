@@ -1,4 +1,4 @@
-# zig raylig project template
+# zig raylib project template
 
 - make sure to have raylib installed on the system
 - then do `make run`
